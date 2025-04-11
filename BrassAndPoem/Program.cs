@@ -80,6 +80,7 @@ while(choice != "5"){
 
 void DisplayMenu()
 {
+    //
     Console.WriteLine(@"
 1. Display all products
 2. Delete a product
